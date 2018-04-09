@@ -16,6 +16,6 @@ public class GitDemoApplication {
 	@RequestMapping("/api/rest/wish")
 	@GetMapping
 	public String welcome() {
-		return "hi....hello friends,welcome to git hub";
+		return "hi....hello friends,welcome to git hub basudev";
 	}
 }
